@@ -5,7 +5,6 @@ class DPR:
     __bidang = ""
     __partai = ""
 
-    
     def __init__(self, nama, id, umur, bidang, partai):
         self.__nama = nama
         self.__id = id
